@@ -1,4 +1,5 @@
-                                              HELLO ALL 👋 I'm Radhika Gedela
+**HELLO ALL 👋 I'm Radhika Gedela**
+                                            
 ---
 
 From the world of pharmacy to the realm of data science—now bridging the gap between healthcare and technology! 💊➡️📊
@@ -20,18 +21,21 @@ From the world of pharmacy to the realm of data science—now bridging the gap b
 
 🌱 Skills I’m honing: Machine learning, predictive analytics, and natural language processing for better health insights and patient care.
 
+---
 
 Let’s Connect & Innovate Together:
 
-📧 Email: radhikagedela9@gmail.com
+📧  Email Address: radhikagedela9@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/radhika-gedela-b0b993173
+
+🔗 LinkedIn: https://www.linkedin.com/in/radhika-gedela/
 
 ---
+
 Tools I use to craft better healthcare outcomes:
 ⚙️ Python | R | SQL | Power BI | Tableau | Pandas | Scikit-learn | TensorFlow | SQL | Tableau
 
-
 ---
+
 
 
