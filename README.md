@@ -1,20 +1,37 @@
-👋 Hi, I’m @radhikagedela12, a Health Informatics master's student on a journey to explore the intersection of healthcare and technology.
+                                              HELLO ALL 👋 I'm Radhika Gedela
+---
 
-👀 I’m interested in healthcare data analytics, electronic health records, telemedicine, and the utilization of technology to improve healthcare outcomes.
+From the world of pharmacy to the realm of data science—now bridging the gap between healthcare and technology! 💊➡️📊
 
-🌱 I’m currently learning about machine learning and data science techniques specific to the healthcare field, such as predictive modeling for patient outcomes and natural language processing for medical text analysis.
-
-💞️ I’m looking to collaborate on open-source health informatics projects, data analysis in healthcare, and anything that combines my passion for technology and healthcare.
-
-📫 How to reach me:
-- Email: radhikagedela9@gmail.com
-- LinkedIn: www.linkedin.com/in/radhika-gedela-b0b993173
+<img width="1488" alt="Screenshot 2025-04-03 at 5 00 18 PM" src="https://github.com/user-attachments/assets/6ef78bea-ae2c-4210-8cca-7d8a71c98f7d" />
 
 
-Feel free to connect and collaborate with me. Let's work together to make a positive impact on the healthcare industry through technology!
 
 
-<!---
-radhikagedela12/radhikagedela12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+💥 Fun fact: I traded in my pharmacy tools for Python scripts and SQL queries. Now I’m diagnosing healthcare data and optimizing outcomes with precision! 📈🧠
+
+
+🚀 What I’m up to: Diving deep into healthcare data analytics, building predictive models for patient outcomes, and using advanced tools like R, Python, and SQL to make sense of complex data in the healthcare space. I'm on a mission to transform health systems with data-driven insights.
+
+🌱 Skills I’m honing: Machine learning, predictive analytics, and natural language processing for better health insights and patient care.
+
+
+Let’s Connect & Innovate Together:
+
+📧 Email: radhikagedela9@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/radhika-gedela-b0b993173
+
+---
+Tools I use to craft better healthcare outcomes:
+⚙️ Python | R | SQL | Power BI | Tableau | Pandas | Scikit-learn | TensorFlow | SQL | Tableau
+
+
+---
+
+
